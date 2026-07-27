@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kunal+%F0%9F%91%8B;Aspiring+ML+%2F+Data+Scientist;Building+AI-Powered+Products;Live+Long+And+Prosper+%F0%9F%96%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kunal+%F0%9F%91%8B;Aspiring+ML+%2F+Backend+Developer;Building+AI-Powered+Products;" alt="Typing SVG" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
@@ -31,7 +31,7 @@
 - 🎓 Student based in **India**, focused on **Machine Learning** and **Data Science**
 - 🧠 Building end-to-end AI products — from NLP pipelines to full backend systems
 - 🏆 Active hackathon participant (Social Impact / AI tracks)
-- 🛠️ Currently building a **FastAPI + SQLAlchemy + PostgreSQL** backend for trip & maintenance lifecycle management
+- 🛠️ Currently building a **FastAPI + PostgreSQL** backend for trip & maintenance lifecycle management
 - 🎨 Exploring AI image/video generation and prompt engineering as a creative side-quest
 - 📫 Reach me at **knlwagheit@gmail.com**
 
@@ -68,69 +68,68 @@
 
 ### 📌 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🚛 Transit Ops — Trip & Maintenance Lifecycle Manager** *(in progress)*
 A FastAPI + SQLAlchemy + PostgreSQL backend managing trip and vehicle maintenance lifecycles — status transitions, service-layer architecture, and atomic DB operations.
 `Python` `FastAPI` `SQLAlchemy` `PostgreSQL`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🗣️ [Sahayak — AI Scheme Finder](https://github.com/KunalWaghe/SAHAYAK_AI)**
 AI-powered multilingual government scheme finder for Indian citizens. MuRIL + FAISS semantic search over ~4,700 schemes, Gemini 2.5 Flash for responses, gTTS voice output.
 `Python` `Streamlit` `FAISS` `Gemini`
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **🕵️ [DeepFake Detection Model](https://github.com/KunalWaghe/DeepFake-Detection-Model)**
-A deep learning model to detect deepfake images and videos.
+A deep learning model to detect deepfake images and videos using deep learning techniques.
 `Python` `Deep Learning` `Computer Vision`
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **📈 [Time Series Forecasting](https://github.com/KunalWaghe/Time-Series-Forecasting)**
 Forecasts future weekly retail sales using Facebook Prophet.
 `Python` `Prophet` `Forecasting`
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **💰 [VaR Testing](https://github.com/KunalWaghe/VAR-TESTING)**
 Analyzes financial downside risk of a 3-stock portfolio using multiple Value at Risk methods.
 `Python` `Quant Finance` `Risk Analysis`
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🗣️ [Grammar Scoring System](https://github.com/KunalWaghe/GRAMMER-SCORING-SYSTEM-MODEL)**
 A model that scores grammar quality from spoken audio.
 `Python` `NLP` `Audio ML`
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **🐔 [Amit Poultry Farm Ledger](https://github.com/KunalWaghe/Amit-Poultry-Farm-Ledger)**
 A custom web app to manage sales, transactions, and customer records for a family-run poultry farm.
 `HTML` `Web App`
 
 </td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" valign="top" align="center">
 
 ✨ *More projects on the way — stay tuned!*
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
@@ -149,12 +148,10 @@ A custom web app to manage sales, transactions, and customer records for a famil
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KunalWaghe&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalWaghe&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/KunalWaghe/count.svg" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=KunalWaghe&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -169,7 +166,7 @@ A custom web app to manage sales, transactions, and customer records for a famil
   </picture>
 </p>
 
-> ⚙️ This snake animation is generated automatically. See the `snake.yml` workflow file included alongside this README — drop it into `.github/workflows/` in your **KunalWaghe/KunalWaghe** repo and it will render itself here on a schedule.
+
 
 ---
 
